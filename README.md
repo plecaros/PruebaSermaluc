@@ -29,5 +29,4 @@ Este proyecto es una **API RESTful** desarrollada con **Spring Boot** que permit
 ### **Clonar el Proyecto**
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+https://github.com/plecaros/PruebaSermaluc.git
